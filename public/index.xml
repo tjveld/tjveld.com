@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TJVELD</title>
+        <link>http://localhost:1313/</link>
+        <description>Personal Blog by Tim in &#39;t Veld</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Feb 2026 22:40:40 &#43;0100</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Welcome</title>
+    <link>http://localhost:1313/first_post/</link>
+    <pubDate>Sun, 22 Feb 2026 22:40:40 &#43;0100</pubDate>
+    <author>Tim in &#39;t Veld</author>
+    <guid>http://localhost:1313/first_post/</guid>
+    <description><![CDATA[<h1 id="test-first-post">Test First Post</h1>
+<p>EntraID and Microsoft Blog post</p>
+<h2 id="test">Test</h2>
+<div class="mermaid" id="id-1"></div>
+<figure><a class="lightgallery" href="/images/lighthouse-large.jpg" title="/images/lighthouse.jpg" data-thumbnail="/images/lighthouse-small.jpg" data-sub-html="<h2>Lighthouse (image)</h2>">
+        
+    </a><figcaption class="image-caption">Lighthouse (<code>image</code>)</figcaption>
+    </figure>]]></description>
+</item>
+</channel>
+</rss>
