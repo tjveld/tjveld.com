@@ -1,4 +1,4 @@
-title = "TJVELD"
+title = "Tim in 't Veld"
 baseURL = "http://tjveld.com/"
 theme = "LoveIt"
 languageCode = "en"
@@ -44,7 +44,7 @@ enableEmoji = true              # whether to use emoji code
     description = "Personal Blog by Tim in 't Veld"     # website description for RSS, SEO, Open Graph and Twitter Cards
 
     defaultTheme = "auto"       # site default theme ["auto", "light", "dark"]
-    gitRepo = "https://github.com/tjveld/tjveld.com.git"                # public git repo url only then enableGitInfo is true
+    gitRepo = "https://github.com/tjveld/tjveld.com"                # public git repo url only then enableGitInfo is true
     fingerprint = "sha512"      # LoveIt NEW | 0.1.1 which hash function used for SRI, when empty, no SRI is used
     dateFormat = "2 Jan 2006"   # LoveIt NEW | 0.2.0 date format
     images = ["/static/web-app-manifest-192x192.png"]   # website images for Open Graph and Twitter Cards
